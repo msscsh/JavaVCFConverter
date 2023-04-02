@@ -1,6 +1,12 @@
 package br.com.msscsh.converter.vcf;
 
+import br.com.msscsh.converter.vcf.model.TXTFile;
+import br.com.msscsh.converter.vcf.model.VCFFile;
+
 public class RunConverter {
+
+    private TXTFile arquivoImportacao;
+    private VCFFile arquivoExportacao;
 
     public static void main(String[] args) {
 

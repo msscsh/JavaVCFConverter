@@ -1,4 +1,4 @@
-Reste projeto converte TXT em VCF
+Projeto para conversão de TXT em VCF
 
 
 Formato do arquivo de entrada:

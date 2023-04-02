@@ -6,6 +6,10 @@ public class RunConverter {
 
         System.out.println("Preprarando para converter arquivo TXT em VCF");
 
+        //Leitura do arquivo
+        //Carregamento para o modelo
+        //Conversão para o arquivo
+
     }
 
 }

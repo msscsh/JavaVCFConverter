@@ -1,12 +1,14 @@
 package br.com.msscsh.converter.vcf.model;
 
+import java.rmi.dgc.Lease;
+
 /**
- * Classe para representação da linha do arquivo de importação
+ * Classe para representação de uma dado do VCF
  */
-public class TXTContact {
+public class VCFContact {
 
     private String name;
     private String lastName;
     private String number;
-    
+
 }

@@ -10,11 +10,15 @@ public class RunConverter {
 
     public static void main(String[] args) {
 
-        System.out.println("Preprarando para converter arquivo TXT em VCF");
-
         //Leitura do arquivo
+        //  -Verificar tipo do arquivo (apenas TXT)
         //Carregamento para o modelo
+        //  -Recuperar linhas
+        //  -Adicionar dados no objeto TXTContact
         //Conversão para o arquivo
+        //  -Executar o método de converter do conversor
+        //Checar criação do arquivo
+        //  -Existencia e tamanho do arquivo
 
     }
 

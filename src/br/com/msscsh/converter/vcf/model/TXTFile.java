@@ -7,5 +7,4 @@ public class TXTFile {
 
     private List<TXTContact> lines;
 
-
 }

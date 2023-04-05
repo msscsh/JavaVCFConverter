@@ -1,6 +1,5 @@
-Projeto para conversão de TXT em VCF
+Project to converte from TXT tô VCF
 
+Line format for data input:
 
-Formato do arquivo de entrada:
-
-NOME | CELULAR
+NAME | LASTNAME | CELULAR

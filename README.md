@@ -1,5 +1,5 @@
-Project to converte from TXT tô VCF
+Project to converter contacts from TXT file to VCF file.
 
 Line format for data input:
 
-NAME | LASTNAME | CELULAR
+NAME | LASTNAME | NUMBER

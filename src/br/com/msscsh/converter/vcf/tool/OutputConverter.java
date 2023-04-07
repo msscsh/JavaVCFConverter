@@ -12,6 +12,8 @@ package br.com.msscsh.converter.vcf.tool;
  * TEL;TYPE=cell:(55) 55555-5555
  * END:VCARD
  * 
+ * Arquivo base
+ * 
  */
 public class OutputConverter {
 

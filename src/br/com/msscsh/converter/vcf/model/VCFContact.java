@@ -11,4 +11,12 @@ public class VCFContact {
     private String lastName;
     private String number;
 
+    public String getFullName(){
+        return name + lastName; //TODO there is no criteia for empty names part
+    }
+
+    public String getNumber(){
+        return number;
+    }
+
 }

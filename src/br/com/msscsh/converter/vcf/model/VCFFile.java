@@ -10,4 +10,9 @@ public class VCFFiLe {
     private String fileName;
     private List<VCFContact> lines;
 
+
+    public List<VCFContact> getLines() {
+        return lines;
+    }
+
 }

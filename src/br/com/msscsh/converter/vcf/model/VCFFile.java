@@ -12,7 +12,11 @@ public class VCFFiLe {
 
 
     public List<VCFContact> getLines() {
-        return lines;
+        return this.lines;
+    }
+
+    public String getFileName() {
+        return this.fileName;
     }
 
 }

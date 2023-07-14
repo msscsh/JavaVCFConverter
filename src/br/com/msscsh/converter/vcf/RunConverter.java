@@ -10,15 +10,15 @@ public class RunConverter {
 
     public static void main(String[] args) {
 
-        //Leitura do arquivo
-        //  -Verificar tipo do arquivo (apenas TXT)
-        //Carregamento para o modelo
-        //  -Recuperar linhas
-        //  -Adicionar dados no objeto TXTContact
-        //Conversão para o arquivo
-        //  -Executar o método de converter do conversor
-        //Checar criação do arquivo
-        //  -Existencia e tamanho do arquivo
+        //Read the file
+        // -Check file type (TXT only)
+        //Loading to the model
+        // -Retrieve rows
+        // -Add data to the TXTContact object
+        //Conversion to file
+        // -Run the converter method of the converter
+        //Check file creation
+        // -Existence and size of the file
 
     }
 

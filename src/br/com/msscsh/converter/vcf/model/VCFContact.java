@@ -10,6 +10,7 @@ public class VCFContact {
     private String name;
     private String lastName;
     private String number;
+    private String grouper;
 
     public String getFullName(){
         return name + lastName; //TODO there is no criteia for empty names part

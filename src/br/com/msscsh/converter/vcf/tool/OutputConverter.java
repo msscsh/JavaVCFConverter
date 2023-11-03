@@ -30,7 +30,7 @@ public class OutputConverter {
 
             String contact = "BEGIN:VCARD" + "\\n" +
             "VERSION:4.0" + "\\n" +
-            "FN:FullName" + row.getFullName() + "\\n" +
+            "FN:FullName" + row.getGrouper().toUpperCase() + " " + row.getFullName() + "\\n" +
             "N:Suffix" + "\\n" +
             "TEL;TYPE=" + row.getNumber() + "\\n" +
             "END:VCARD\\n";

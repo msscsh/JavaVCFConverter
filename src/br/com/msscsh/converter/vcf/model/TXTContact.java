@@ -8,5 +8,6 @@ public class TXTContact {
     private String name;
     private String lastName;
     private String number;
+    private String grouper;
     
 }
